@@ -1,8 +1,8 @@
 # `sample-input`
 
-A Web Component for…
+A Web Component to sample audio or video added to an upload input
 
-**[Demo](https://daviddarnes.github.io/sample-input/demo.html)** | **[Example resource](https://darn.es/)**
+**[Demo](https://daviddarnes.github.io/sample-input/demo.html)**
 
 ## Examples
 
