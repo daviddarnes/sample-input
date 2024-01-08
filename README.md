@@ -6,6 +6,19 @@ A Web Component to sample audio or video added to an upload input
 
 ## Examples
 
+General usage example:
+
+```html
+<script type="module" src="sample-input.js"></script>
+
+<sample-input>
+  <input aria-controls="preview" type="file">
+  <audio id="preview" aria-live="polite" controls></audio>
+</sample-input>
+```
+
+Example usage with the `capture` option to record live audio (not compatible with all hardware) and placeholder audio:
+
 ```html
 <script type="module" src="sample-input.js"></script>
 
