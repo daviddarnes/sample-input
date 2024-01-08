@@ -2,7 +2,7 @@
 
 A Web Component to sample audio or video added to an upload input
 
-**[Demo](https://daviddarnes.github.io/sample-input/demo.html)**
+**[Demo](https://daviddarnes.github.io/sample-input/demo.html)** | **[Further reading](https://darn.es/sample-input-web-component/)**
 
 ## Examples
 
