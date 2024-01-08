@@ -1,6 +1,6 @@
 {
   "name": "@daviddarnes/sample-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Web Component to sample audio or video added to an upload input",
   "main": "sample-input.js",
   "scripts": {
